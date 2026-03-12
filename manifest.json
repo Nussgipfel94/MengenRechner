@@ -1,0 +1,19 @@
+{
+  "name": "MengenRechner – dieBodenPfleger",
+  "short_name": "MengenRechner",
+  "description": "Verbrauchsrechner für Bodenbeläge und Dr. Schutz Produkte",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ece2",
+  "theme_color": "#f0ece2",
+  "orientation": "portrait",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%230d3d4a'/><text x='96' y='130' font-family='Arial' font-weight='bold' font-size='90' text-anchor='middle' fill='white'>M</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
